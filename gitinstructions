@@ -3,3 +3,4 @@ git clone (repourl)
 git config --global user.name "your name"
 git config --global user.email "myemail"
 git config --global credential.helper cache
+token=="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"
