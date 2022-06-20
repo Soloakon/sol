@@ -1,3 +1,4 @@
 #!/bin/bash
 useradd sol
-usermod -aG ec2 sol
+usermod -aG root sol
+
