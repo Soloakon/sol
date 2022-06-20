@@ -1,0 +1,6 @@
+#add installation of httpd instructions into sols repo 
+#instruction should be called httpd install
+#change security group to access httpd
+#systemctl start httpd
+#send dipo ip address on whatts app
+
