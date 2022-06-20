@@ -3,4 +3,4 @@
 #change security group to access httpd
 #systemctl start httpd
 #send dipo ip address on whatts app
-
+#look at how to work in VI mode
