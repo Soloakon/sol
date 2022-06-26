@@ -3,5 +3,11 @@ git clone (repourl)
 git config --global user.name "your name"
 git config --global user.email "myemail"
 git config --global credential.helper cache
-token=="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"
+token=="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"
+#instruction to push to giit
+git status
+git add . 
+git commit -m "information about your commit"
+git push username and enter token
+
 
