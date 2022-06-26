@@ -3,7 +3,7 @@ git clone (repourl)
 git config --global user.name "your name"
 git config --global user.email "myemail"
 git config --global credential.helper cache
-token=="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"
+token=="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"
 #instruction to push to giit
 git status
 git add . 
